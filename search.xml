@@ -8,7 +8,7 @@
       <link href="2021/04/12/song/"/>
       <url>2021/04/12/song/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="新月神话"><a href="#新月神话" class="headerlink" title="新月神话"></a>新月神话</h1><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><p>no url specified, no dplayer _(:3」∠)_</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="新月神话"><a href="#新月神话" class="headerlink" title="新月神话"></a>新月神话</h1><iframe src="//player.bilibili.com/player.html?aid=887623208&amp;bvid=BV1TK4y1P7oe&amp;cid=322636716&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","video":{"url":"//player.bilibili.com/player.html?aid=887623208&bvid=BV1TK4y1P7oe&cid=322636716&page=1"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
       
       
       
