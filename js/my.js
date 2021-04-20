@@ -1,1 +1,1 @@
-"use strict";$(document).on("pjax:start",function(){if(window.mmedia){for(var i=0;i<window.mmeida.length;i++)window.mmeida[i].destroy();window.mmedia=[]}});
+"use strict";$(document).on("pjax:start",function(){if(window.DPlayer){for(var n=0;n<window.DPlayer.length;n++)window.DPlayer[n].destroy();window.DPlayer=[]}});
