@@ -94,7 +94,7 @@ hr {
 }
 
 blockquote {
-    border-left: 5px solid #42b983;
+    border-left: 5px solid #49a87d;
     padding: 1rem 0.8rem 0.2rem 0.8rem;
     color: #666;
     background-color: rgba(66, 185, 131, .1);
@@ -110,7 +110,7 @@ pre {
     content: " ";
     position: absolute;
     border-radius: 50%;
-    background: #ff5f56;
+    background: #e76d66;
     width: 12px;
     height: 12px;
     top: 0;
@@ -125,7 +125,7 @@ code {
     top: 13px !important;
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
-    color: #e96900;
+    color: #cf8243;
     background-color: #f8f8f8;
     border-radius: 2px;
 }

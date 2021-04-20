@@ -11,29 +11,29 @@
 }
 
 .gitment-container .gitment-header-like-btn {
-    color: #ab47bc;
+    color: #1d609e;
 }
 
 .gitment-container .gitment-header-like-btn svg {
-    fill: #ab47bc;
+    fill: #6056e4;
 }
 
 .gitment-header-container span {
-    color: #ab47bc;
+    color: #e6de75;
 }
 
 .gitment-container .gitment-header-issue-link {
-    color: #ab47bc;
+    color: #bceb70;
     font-weight: 500;
 }
 
 .gitment-container a.gitment-header-issue-link,
 a.gitment-header-issue-link:visited {
-    color: #ab47bc;
+    color: #f3a172;
 }
 
 .gitment-container .gitment-comment-main {
-    border: 1px solid #e1bee7;
+    border: 1px solid #aac2ee;
     border-radius: 5px;
 }
 
@@ -42,7 +42,7 @@ a.gitment-header-issue-link:visited {
 }
 
 .gitment-container .gitment-comment-main .gitment-comment-like-btn {
-    color: #ab47bc;
+    color: #7bc2eb;
 }
 
 .gitment-container .gitment-comment-main .gitment-comment-like-btn svg {
