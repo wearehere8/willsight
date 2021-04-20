@@ -1,1 +1,1 @@
-"use strict";pjax&&loadDPlayer();
+"use strict";pjax&&mmedia();
