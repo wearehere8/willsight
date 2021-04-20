@@ -1,2 +1,14 @@
-@pointer_default: 'https://cdn.jsdelivr.net/gh/wearehere8/pppppic@pg/free/Jkll8I.png';
-@pointer_pointer: 'https://cdn.jsdelivr.net/gh/wearehere8/pppppic@pg/free/JkuClT.png';
+@font-face {
+    font-family:'arzhu';
+    src:url('https://cdn.jsdelivr.net/gh/zjwo/CDN@master/font/arzhu.ttf');
+    font-display:swap
+}
+h1#site-title {
+    font-family:arzhu!important
+}
+span#subtitle {
+    font-family:arzhu!important
+}
+a#site-name {
+    font-family:arzhu!important
+}
