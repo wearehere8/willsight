@@ -9,3 +9,8 @@
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
 }
+
+/* 博主昵称颜色 */
+.author-info__name {
+    color: #df5223;
+}
