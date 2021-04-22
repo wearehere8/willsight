@@ -6,7 +6,7 @@
   <link href="https://willsight.tk/atom.xml" rel="self"/>
   
   <link href="https://willsight.tk/"/>
-  <updated>2021-04-22T15:53:34.631Z</updated>
+  <updated>2021-04-22T15:59:01.469Z</updated>
   <id>https://willsight.tk/</id>
   
   <author>
@@ -21,14 +21,17 @@
     <link href="https://willsight.tk/2021/04/22/test1/"/>
     <id>https://willsight.tk/2021/04/22/test1/</id>
     <published>2021-04-22T15:49:50.000Z</published>
-    <updated>2021-04-22T15:53:34.631Z</updated>
+    <updated>2021-04-22T15:59:01.469Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div id=&quot;mmedia-MPYXtUCFbdQjTxSE&quot;&gt;&lt;/div&gt;&lt;script&gt; var MPYXtUCFbdQjTxSE_options =</summary>
+    <summary type="html">&lt;video id=&quot;video&quot; preload=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; style=&quot;height: 100%;width: 100%;object-fit: cover;&quot;&gt;
+&lt;/video&gt;
+&lt;script&gt;
+  var</summary>
         
       
     
