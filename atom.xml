@@ -6,7 +6,7 @@
   <link href="https://willsight.tk/atom.xml" rel="self"/>
   
   <link href="https://willsight.tk/"/>
-  <updated>2021-04-23T13:37:32.948Z</updated>
+  <updated>2021-04-23T13:39:09.879Z</updated>
   <id>https://willsight.tk/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://willsight.tk/2021/04/22/hslhost/"/>
     <id>https://willsight.tk/2021/04/22/hslhost/</id>
     <published>2021-04-22T15:49:50.000Z</published>
-    <updated>2021-04-23T13:37:32.948Z</updated>
+    <updated>2021-04-23T13:39:09.879Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;HLS播放&quot;&gt;&lt;a href=&quot;#HLS播放&quot; class=&quot;headerlink&quot; title=&quot;HLS播放&quot;&gt;&lt;/a&gt;HLS播放&lt;/h1&gt;&lt;p&gt;引入hls.js后，在artplayer播放，演示如下&lt;/p&gt;
+    <summary type="html">&lt;h1 id=&quot;HLS播放&quot;&gt;&lt;a href=&quot;#HLS播放&quot; class=&quot;headerlink&quot; title=&quot;HLS播放&quot;&gt;&lt;/a&gt;HLS播放&lt;/h1&gt;&lt;p&gt;引入hls.js后，在dplayer播放，演示如下&lt;/p&gt;
 &lt;div&gt;
 &lt;script</summary>
         
