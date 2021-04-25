@@ -6,7 +6,7 @@
   <link href="https://willsight.tk/atom.xml" rel="self"/>
   
   <link href="https://willsight.tk/"/>
-  <updated>2021-04-25T17:18:47.892Z</updated>
+  <updated>2021-04-25T17:23:44.531Z</updated>
   <id>https://willsight.tk/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://willsight.tk/2021/04/26/wo-de-shi-jie-zi-dong-jian-yang-mao-ji/"/>
     <id>https://willsight.tk/2021/04/26/wo-de-shi-jie-zi-dong-jian-yang-mao-ji/</id>
     <published>2021-04-25T17:14:44.000Z</published>
-    <updated>2021-04-25T17:18:47.892Z</updated>
+    <updated>2021-04-25T17:23:44.531Z</updated>
     
     
       
@@ -36,7 +36,11 @@
     
     
     
-    <category term="游戏 我的世界 Minecraft" scheme="https://willsight.tk/tags/%E6%B8%B8%E6%88%8F-%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C-Minecraft/"/>
+    <category term="游戏" scheme="https://willsight.tk/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="我的世界" scheme="https://willsight.tk/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+    <category term="Minecraft" scheme="https://willsight.tk/tags/Minecraft/"/>
     
   </entry>
   
