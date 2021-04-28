@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://willsight.tk/2021/04/20/shi-jie-ming-hua/</loc>
+    
+    <lastmod>2021-04-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://willsight.tk/2021/04/26/wo-de-shi-jie-zi-dong-jian-yang-mao-ji/</loc>
     
     <lastmod>2021-04-25</lastmod>
@@ -65,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://willsight.tk/2021/04/20/shi-jie-ming-hua/</loc>
-    
-    <lastmod>2021-04-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://willsight.tk/2021/03/28/hello-world/</loc>
     
     <lastmod>2021-04-20</lastmod>
@@ -95,7 +95,7 @@
 
   <url>
     <loc>https://willsight.tk/</loc>
-    <lastmod>2021-04-25</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,21 +103,21 @@
   
   <url>
     <loc>https://willsight.tk/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2021-04-25</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://willsight.tk/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-04-25</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://willsight.tk/tags/Minecraft/</loc>
-    <lastmod>2021-04-25</lastmod>
+    <lastmod>2021-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
